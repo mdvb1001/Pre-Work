@@ -1,2 +1,17 @@
-https://scratch.mit.edu/projects/119842521/#player
 
+<!DOCTYPE html>
+    <html>
+    <head>
+        <title>Scratch Activity</title>
+    </head>
+    
+    <body>
+      <p>
+        <a href="https://scratch.mit.edu/projects/119842521/">My Scratch Activity</a>
+      </p>
+    
+      <p>
+        <iframe allowtransparency="true" width="485" height="402" src="//scratch.mit.edu/projects/embed/119842521/?autostart=false" frameborder="0" allowfullscreen></iframe>
+      </p>
+    </body>
+<html>
